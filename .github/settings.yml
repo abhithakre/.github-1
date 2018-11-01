@@ -2,7 +2,7 @@ _extends: .github
 
 repository:
   name: .github
-  description: ProBot Settings root config
+  description: ":octocat: ProBot Settings root config"
   topics: probot, settings, colophon
   homepage: https://github.com/probot/settings
   private: false
