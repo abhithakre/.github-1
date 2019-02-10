@@ -6,7 +6,7 @@ repository:
   topics: probot, settings, colophon
   homepage: https://github.com/probot/settings
   private: false
-  has_issues: true
+  has_issues: false
   has_wiki: false
   has_downloads: false
   has_projects: false
