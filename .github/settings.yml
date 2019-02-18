@@ -2,7 +2,7 @@ repository:
   name: .github
   description: ":octocat: ProBot Settings root config"
   topics: probot, settings, colophon
-  homepage: https://github.com/probot/settings
+  homepage: https://colophon.id
   private: false
   has_issues: false
   has_wiki: false
